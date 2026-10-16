@@ -12,7 +12,5 @@ public class Task3{
         if(b1 && b2 && b3){
             System.out.println("Success!");
         }
-        sout
-        
     }
 }
